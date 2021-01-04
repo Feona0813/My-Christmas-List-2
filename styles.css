@@ -1,0 +1,43 @@
+.title{
+    font-family: 'Langar', cursive;
+    text-align:center;
+    color:Crimson;
+}
+.topic{
+    font-family: 'Langar', cursive;
+    text-align:center;
+    color:CornflowerBlue;
+}
+ul{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size:30px;
+    color:FireBrick;
+    text-align:center;
+}
+body{
+    background-image:url("https://onextrapixel.com/wp-content/uploads/2019/11/Christmas-Background-in-Pure-CSS.jpg");
+}
+.santa{
+    border:10px dotted green;
+    padding:8px;
+    margin:5px;
+display:flex;
+justify-content:space-around;
+}
+.APPLE{
+    height:200px;
+}
+.SB{
+    height:200px;
+    width:300px;
+}
+.NS{
+    height:200px;
+    width:300px;
+}
+p{
+    text-align:center;
+    font-family: 'Lobster', cursive;
+    font-size:30px;
+    color:ForestGreen;
+}
